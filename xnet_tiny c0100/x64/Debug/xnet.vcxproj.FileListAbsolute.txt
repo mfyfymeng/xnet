@@ -1,4 +1,4 @@
 C:\Users\fymeng\Desktop\xnet_tiny\xnet_tiny c0100\x64\Debug\xnet.exe
 C:\Users\fymeng\Desktop\xnet_tiny\xnet_tiny c0100\x64\Debug\xnet.pdb
-D:\code\xnet_tiny\xnet_tiny c0101\x64\Debug\xnet.exe
-D:\code\xnet_tiny\xnet_tiny c0101\x64\Debug\xnet.pdb
+D:\code\xnet_tiny\xnet_tiny c0000\x64\Debug\xnet.exe
+D:\code\xnet_tiny\xnet_tiny c0000\x64\Debug\xnet.pdb

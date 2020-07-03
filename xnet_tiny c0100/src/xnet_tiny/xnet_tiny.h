@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 
-#define XNET_CFG_PACKET_MAX_SIZE       1516
+#define XNET_CFG_PACKET_MAX_SIZE         1516
 
 typedef struct _xnet_packet_t {
 	uint16_t size;
@@ -16,5 +16,7 @@ xnet_packet_t* xnet_alloc_for_read(uint16_t data_size);
 
 void xnet_init(void);
 void xnet_poll(void);
+
+
 
 #endif // !XNET_TINY_H
